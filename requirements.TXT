@@ -1,0 +1,13 @@
+aiohttp
+attrs
+async-timeout
+colorama
+dhooks
+discord-webhook
+discord.py
+chardet
+idna
+multidict
+websocket-client
+websockets
+yarl
